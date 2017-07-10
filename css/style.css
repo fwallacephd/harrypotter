@@ -1,0 +1,93 @@
+/*HARRY POTTER*/
+/*BODY*/
+@font-face {
+   font-family: harrypotter-webfont;
+   src: url(harrypotter-webfont.woff);
+}
+
+/*TITLE*/
+.title{
+   background-color: gray;
+}
+
+.hp-font {
+   font-family: harrypotter-webfont;
+   text-align: center;
+   padding: 0%;
+   padding-top: 2%;
+   margin-bottom: -2%;
+   font-size: 60px;
+
+}
+
+.tag-line {
+   font-family: 'Open Sans Condensed', sans-serif;
+   padding-top: 1%;
+   text-align: center;
+   font-size: 35px;
+   border-bottom: 8px solid purple;
+}
+
+/*BOOKS*/
+.books {
+   font-family: 'Open Sans Condensed', sans-serif;
+   padding: 5rem 0;
+   margin-top: -1%;
+   background: url('../images/textured_paper.png') center center;
+
+}
+
+.sorcerer {
+   width: 45%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.chamber {
+   width: 45%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.prisoner {
+   width: 45%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.goblet {
+   width: 62%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.order {
+   width: 62%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.half-blood {
+   width: 62%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.deathly{
+   width: 62%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+.date {
+   text-align: center;
+   font-size: 24px;
+   color: purple;
+
+}
