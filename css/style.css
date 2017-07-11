@@ -167,3 +167,11 @@ a:hover {
    font-family: 'Open Sans Condensed', sans-serif;
    font-size: 25px;
 }
+
+/*FOOTER*/
+.footer {
+   font-family: 'Open Sans Condensed', sans-serif;
+   background-color: gray;
+   color:white;
+   vertical-align:middle;
+}
